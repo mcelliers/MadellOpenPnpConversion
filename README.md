@@ -24,7 +24,9 @@ Part 3 - Software
         Also investigate OpenCV to test the vision aspect of the CNC system.
         (I am a C# Developer and will probably try to write some application for the PickandPlace machine and create a seperate repository for it)
         
-
+Part 4 - Additional Parts and Features.
+         For 3d models for parts I use Designspark Mechanical. I will leave the designs in this repository, But if I can I will try to use OpenSCAD instead.
+         For PCB Designs I use Designspark PCB. I still try to Migrate to KiCAD but keep on reverting back to Designspark PCB.          
 
 
 
