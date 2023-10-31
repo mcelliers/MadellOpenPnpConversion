@@ -11,6 +11,19 @@ Information on the board is at : https://github.com/makerbase-mks/MKS-Robin-Nano
 
 For all the Upgrade tasks and parts that i requie for this confersion I will place here.
 
+Part 1 - Hardware
+        Replacing the Controller and rewiring all the stepper drivers and solenoids to the New board
+
+Part 2 - Firmware
+        Testing with the default firmware on the board, and if required, modifying it.
+
+Part 3 - Software
+        Test OpenPNP 2.0 software with the unit. https://openpnp.org/
+        OpenPnP Project:          https://github.com/openpnp/openpnp
+        
+        Also investigate OpenCV to test the vision aspect of the CNC system.
+        (I am a C# Developer and will probably try to write some application for the PickandPlace machine and create a seperate repository for it)
+        
 
 
 
